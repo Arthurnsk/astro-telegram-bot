@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+APScheduler
+groq
+requests
+python-dotenv
